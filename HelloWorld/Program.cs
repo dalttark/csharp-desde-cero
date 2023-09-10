@@ -1,10 +1,13 @@
 ﻿namespace HelloWorld{
-    class Program(
+    
+    class Program{
         static void Main(){
             string Name="jhon";
             Name="1jhon";
-            Console.WriteLine($"hello World!  {Name}");
+            Console.WriteLine($"hello World! {Name}");
+            Console.WriteLine("s");
             Console.WriteLine();
         }
-    )
+    }
+
 }
